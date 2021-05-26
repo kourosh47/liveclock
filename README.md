@@ -1,3 +1,3 @@
 # liveclock
-requirement:
+#requirement:
     pip install tkinter
